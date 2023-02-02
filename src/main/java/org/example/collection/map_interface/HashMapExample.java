@@ -1,4 +1,4 @@
-package org.example.generics.collection.map_interface;
+package org.example.collection.map_interface;
 
 import java.util.HashMap;
 import java.util.Map;

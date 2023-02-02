@@ -1,4 +1,4 @@
-package org.example.generics.collection;
+package org.example.collection;
 
 import java.util.Objects;
 

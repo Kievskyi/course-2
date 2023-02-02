@@ -1,4 +1,4 @@
-package org.example.generics.collection.set_interface;
+package org.example.collection.set_interface;
 
 import java.util.HashSet;
 import java.util.Set;

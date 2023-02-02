@@ -1,4 +1,4 @@
-package org.example.generics.collection.list_interface;
+package org.example.collection.list_interface;
 
 import java.util.LinkedList;
 import java.util.Objects;
